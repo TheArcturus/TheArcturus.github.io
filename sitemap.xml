@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://thearcturus.github.io/</loc>
+        <lastmod>2025-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thearcturus.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://thearcturus.github.io/fr/"/>
+    </url>
+    <url>
+        <loc>https://thearcturus.github.io/section1/</loc>
+        <lastmod>2025-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thearcturus.github.io/section1/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://thearcturus.github.io/fr/section1/"/>
+    </url>
+    <url>
+        <loc>https://thearcturus.github.io/section2/</loc>
+        <lastmod>2025-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thearcturus.github.io/section2/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://thearcturus.github.io/fr/section2/"/>
+    </url>
+    <url>
+        <loc>https://thearcturus.github.io/fr/</loc>
+        <lastmod>2025-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://thearcturus.github.io/fr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thearcturus.github.io/"/>
+    </url>
+    <url>
+        <loc>https://thearcturus.github.io/fr/section1/</loc>
+        <lastmod>2025-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://thearcturus.github.io/fr/section1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thearcturus.github.io/section1/"/>
+    </url>
+    <url>
+        <loc>https://thearcturus.github.io/fr/section2/</loc>
+        <lastmod>2025-06-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://thearcturus.github.io/fr/section2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://thearcturus.github.io/section2/"/>
+    </url>
+</urlset>
