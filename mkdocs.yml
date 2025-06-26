@@ -1,0 +1,4 @@
+site_name: Demo Pages
+site_url: https://thearcturus.github.io
+theme:
+  name: material
